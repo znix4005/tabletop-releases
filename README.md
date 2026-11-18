@@ -1,0 +1,1 @@
+This repository contains official Tabletop Restaurant Windows releases and automatic update manifests.\n
